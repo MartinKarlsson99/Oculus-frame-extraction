@@ -1,8 +1,5 @@
 import os
-
-import cv2
-from ffmpeg import FFmpeg, Progress
-import ffmpeg
+from ffmpeg import FFmpeg
 
 
 def apply_mask(image, mask):
