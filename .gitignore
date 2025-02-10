@@ -1,0 +1,6 @@
+images
+video
+*.xcf
+*.spec
+.idea/
+__pycache__/
